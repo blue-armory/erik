@@ -3,3 +3,4 @@ The vision is to create a front end for managing infrastructure documentation, m
 
 ## Workflow
 ![Workflow](workflow.drawio.png)
+Legend : [Flowchart Symbols](https://www.zenflowchart.com/flowchart-symbols)
